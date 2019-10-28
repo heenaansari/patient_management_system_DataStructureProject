@@ -1,8 +1,7 @@
-			/*             Data Structure Mini Project
+/*             Data Structure Mini Project
 			 * 		    TOPIC:: Patient Management System.
-			 *                                 	Learners: 1. Ms. Heena Ansari (17CO01)
-														  2. Ms. Sanaf Momin  (17CO08)
-														  3. Ms. Iqraa Shaikh (17CO11)
+			 *                                 	
+														
 						 
 			 * Summary: 
 			 * 1. Our project topic is "Patient Management System" which is designed aiming to manage the patient records in common hospitals.
@@ -17,7 +16,7 @@
 			 * 8. When hospital's use this system they can save the details of the patient's more securely than it is done manually.
 			 * 9. This program also provides inbuilt user ID and password.
 			 *	  Misplacing and mishandeling is impossible with this system than the manual procedure.
-			 *             So we can recommend this system as trustworthy and securable one as information can be accessed by authorized user.  
+			 *             So wecan recommend this system as trustworthy and securable one as information can be accessed by authorized user.  
 			 * */
 			#include<stdio.h>
 			#include<stdlib.h>
