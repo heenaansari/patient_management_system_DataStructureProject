@@ -1,4 +1,6 @@
 /*             Data Structure Mini Project
+AUTHOR : heenaansari
+github : heenaansari
 			 * 		    TOPIC:: Patient Management System.
 			 *                                 	
 														
